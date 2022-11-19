@@ -5,3 +5,6 @@
 ## Description
   Handwriting recognition is one of the compelling research works going on because every individual in this world has their own style of writing. It is the capability of the computer to identify and understand handwritten digits or characters automatically. Because of the progress in the field of science and technology, everything is being digitalized to reduce human effort. Hence, there comes a need for handwritten digit recognition in many real-time applications. MNIST data set is widely used for this recognition process and it has 70000 handwritten digits. We use Artificial neural networks to train these images and build a deep learning model. Web application is created where the user can upload an image of a handwritten digit. this image is analyzed by the model and the detected result is returned on to UI
 
+#### Output
+![Screenshot 2022-11-19 204947](https://user-images.githubusercontent.com/103882547/202858034-e4e855bf-ea52-443d-b5f0-d1ea331d2c3c.jpg)
+![Screenshot 2022-11-19 205027](https://user-images.githubusercontent.com/103882547/202858053-39d4660a-a83f-44ba-9f7e-b89fa019748e.jpg)
