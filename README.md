@@ -18,29 +18,27 @@
 
 
 # Task Completed
--[x] Assignment 1
-#### Assignment 2
-#### Assignment 3
-#### Assignment 4
-#### Project Design and Planning
-#### Ideation Phase
-#### Project Design Phase 1
-#### Project Design Phase 2
-#### Project Planning Phase
-#### Project Development Phase
-####  Sprint 1
-####  Sprint 2
-####  Sprint 3
-####  Sprint 4
-#### Testing
-#### Final Deliverables
-#### Final Code
-#### IBM Cloud Deployment
-#### Project Demo
-#### Project Report
-#### Understanding the Data
-#### Model Building
-#### Application Building
-#### Train the Model on IBM
-#### Uploading the Demo Video Link
-#### Project Report
+- [x] Assignment 1
+- [x] Assignment 2
+- [x] Assignment 3
+- [x] Assignment 4
+- [x] Project Design and Planning
+    - [x] Ideation Phase
+    - [x] Project Design Phase 1
+    - [x] Project Design Phase 2
+    - [x] Project Planning Phase
+- [x] Project Development Phase
+    - [x] Sprint 1
+    - [x] Sprint 2
+    - [x] Sprint 3
+    - [x] Sprint 4
+    - [x] Testing
+- [x] Final Deliverables
+    - [x] Final Code
+    - [x] IBM Cloud Deployment
+    - [x] Project Demo
+    - [x] Project Report
+ - [x] Understanding the Data
+ - [x] Model Building
+ - [x] Application Building
+ - [x] Train the Model on IBM
